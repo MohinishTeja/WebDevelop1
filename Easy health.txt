@@ -1,0 +1,324 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.easyhealth.org.uk/sites/default/themes/mythemes/acq_easyhealth/images/favicon.jpg" type="image/jpeg" />
+<link rel="shortlink" href="/node/26" />
+<link rel="canonical" href="/content/homepage" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Homepage | easyhealth.org.uk</title>
+  <link type="text/css" rel="stylesheet" href="http://www.easyhealth.org.uk/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.easyhealth.org.uk/sites/default/files/css/css_AYghYyijzV1o_cWOLi8ZMiONkXfW5Tm1NkP1p_Uv7eM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.easyhealth.org.uk/sites/default/files/css/css_WITz2OvJbHGPtO9M3z8iw_nCPUFS9ZBe_2-qj5P2QXo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.easyhealth.org.uk/sites/default/files/css/css_rkZx0anCxdArNHFZ3RPzcXKQ3rn7TQ3NzdwzWhlf-yA.css" media="all" />
+  <script type="text/javascript" src="http://www.easyhealth.org.uk/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://www.easyhealth.org.uk/sites/default/files/js/js_CC-zfeuQHcDhFtVRuKW53h30TL7j_105J32Nz8b8R38.js"></script>
+<script type="text/javascript" src="http://www.easyhealth.org.uk/sites/default/files/js/js_0KYjE_ho1-3s5TzdEJ1Uc9pMv1uQc0ZpixoAMpy4MyY.js"></script>
+<script type="text/javascript" src="http://www.easyhealth.org.uk/sites/default/files/js/js_-9v5c9J6FCqk6NNXMgDUIL7Q_6cnyTjnap1qpLg_E0E.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-16522694-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.easyhealth.org.uk/sites/default/files/js/js_tXVMGLSsd_E5PKELKWjutPycdVACjkCIQipxozi4amM.js"></script>
+<script type="text/javascript" src="http://www.easyhealth.org.uk/sites/default/files/js/js_Vz7M_c4oaeUXwLBwlV2J0TyR7asqVvNZJolns7n5PXU.js"></script>
+<script type="text/javascript" src="http://www.easyhealth.org.uk/sites/default/files/js/js_AHyBAYZMC0aoLby7IhzDcekyKo2__10bztcN6PSiv_g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acq_easyhealth","theme_token":"1IwziTxh5NCwlH-6u2sFNyaZ22g-5UOduexVHf3aB3M","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contrib\/mollom\/mollom.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"modules\/openid\/openid.js":1,"sites\/default\/themes\/mythemes\/acq_easyhealth\/local.js":1,"sites\/all\/modules\/contrib\/views\/js\/jquery.ui.dialog.patch.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/follow\/follow.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"modules\/openid\/openid.css":1,"sites\/default\/themes\/mythemes\/acq_easyhealth\/defaults.css":1,"sites\/default\/themes\/mythemes\/acq_easyhealth\/style.css":1,"sites\/default\/themes\/mythemes\/acq_easyhealth\/palette.css":1,"sites\/default\/themes\/mythemes\/acq_easyhealth\/custom.css":1,"sites\/default\/themes\/mythemes\/acq_easyhealth\/advanced.css":1,"sites\/default\/themes\/mythemes\/acq_easyhealth\/font-families.css":1}},"googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"urlIsAjaxTrusted":{"\/":true,"\/content\/homepage?destination=node\/26":true}});
+//--><!]]>
+</script>
+  <!--[if lt IE 8]><link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/mythemes/acq_easyhealth/ie7-and-below.css" /><![endif]-->
+  <!--[if IE 6]><link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/mythemes/acq_easyhealth/ie6.css" /><![endif]-->
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-26 node-type-page body-layout-fixed-c" >
+    
+<!--[if IE ]>
+<div id="gardens_ie">
+<![endif]-->
+
+<!--[if IE 8]>
+<div id="gardens_ie8">
+<![endif]-->
+
+<!--[if IE 7]>
+<div id="gardens_ie7">
+<![endif]-->
+
+<!--[if lt IE 7]>
+<div id="gardens_ie-deprecated">
+<![endif]-->
+	<a class="skiplink" href="#content">Skip to content</a>
+      <div id="preheader"><div class="section clearfix">	
+	  <div id="preheader-first-region" class="area">
+	            <div class="region region-preheader-first">
+    <div id="block-block-16" class="block block-block">
+
+    
+  <div class="content">
+     <ul id="utility-nav"><li><span>Word size:&nbsp;</span><a class="styleswitch-text" href="#" rel="/sites/default/files/type-medium_0.css"><img alt="medium text size" src="/sites/default/files/text-medium1.gif"></a></li><li><a class="styleswitch-text" href="#" rel="/sites/default/files/type-large_0.css"><img alt="large text size" src="/sites/default/files/text-large1.gif"></a></li><li><a class="styleswitch-text" href="#" rel="/sites/default/files/type-xlarge.css"><img alt="extra large text size" src="/sites/default/files/text-xlarge1.gif"></a></li><li id="contrast-control">Page colour:&nbsp;<a class="styleswitch-color high-c" href="#" rel="/sites/default/files/high-contrast19.css">black</a>&nbsp;<a class="styleswitch-color" href="#" rel="/sites/default/files/normal-contrast1.css">white</a></li></ul>   </div>
+</div>
+<div id="block-block-21" class="block block-block">
+
+    
+  <div class="content">
+     <script type="text/javascript">
+jQuery.cookie = function(name, value, options) {
+    if (typeof value != 'undefined') { // name and value given, set cookie
+        options = options || {};
+        if (value === null) {
+            value = '';
+            options.expires = -1;
+        }
+        var expires = '';
+        if (options.expires && (typeof options.expires == 'number' || options.expires.toUTCString)) {
+            var date;
+            if (typeof options.expires == 'number') {
+                date = new Date();
+                date.setTime(date.getTime() + (options.expires * 24 * 60 * 60 * 1000));
+            } else {
+                date = options.expires;
+            }
+            expires = '; expires=' + date.toUTCString(); // use expires attribute, max-age is not supported by IE
+        }
+        // CAUTION: Needed to parenthesize options.path and options.domain
+        // in the following expressions, otherwise they evaluate to undefined
+        // in the packed version for some reason...
+        var path = options.path ? '; path=' + (options.path) : '';
+        var domain = options.domain ? '; domain=' + (options.domain) : '';
+        var secure = options.secure ? '; secure' : '';
+        document.cookie = [name, '=', encodeURIComponent(value), expires, path, domain, secure].join('');
+    } else { // only name given, get cookie
+        var cookieValue = null;
+        if (document.cookie && document.cookie != '') {
+            var cookies = document.cookie.split(';');
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = jQuery.trim(cookies[i]);
+                // Does this cookie string begin with the name we want?
+                if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                    cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                    break;
+                }
+            }
+        }
+        return cookieValue;
+    }
+};
+jQuery('head').append('<link id="style-textsize" type="text/css" rel="stylesheet" href="/sites/default/files/type-medium_0.css" media="all" />'); 
+jQuery('head').append('<link id="style-color" type="text/css" rel="stylesheet" href="/sites/default/files/normal-contrast1.css" media="all" />'); 
+
+if(jQuery.cookie("css-textsize")) {
+		jQuery("#style-textsize").attr("href",jQuery.cookie("css-textsize"));
+	}
+if(jQuery.cookie("css-color")) {
+		jQuery("#style-color").attr("href",jQuery.cookie("css-color"));
+	}
+
+jQuery(document).ready(function() {
+
+
+
+	jQuery(".styleswitch-text").click(function() { 
+		jQuery("#style-textsize").attr("href",jQuery(this).attr('rel'));
+jQuery.cookie("css-textsize",jQuery(this).attr('rel'), {expires: 365, path: '/'});
+		return false;
+	});
+
+
+	jQuery(".styleswitch-color").click(function() { 
+		jQuery("#style-color").attr("href",jQuery(this).attr('rel'));
+jQuery.cookie("css-color",jQuery(this).attr('rel'), {expires: 365, path: '/'});
+		return false;
+	});
+}); </script>
+   </div>
+</div>
+  </div>
+      	  </div>
+	  
+	  
+	  <div id="preheader-second-region" class="area">
+	  	  </div>
+  	</div></div> <!-- /.section, /#preheader -->
+  
+  <div id="page-wrapper"><div id="page">
+
+    <div id="header" class="area tb-auto-adjust-height"><div class="section clearfix">
+      <div id="branding">
+                  <a href="/" title="Home" rel="home" id="logo">
+            <img src="http://www.easyhealth.org.uk/sites/default/themes/mythemes/acq_easyhealth/images/logo_0.gif" alt="Home" />
+          </a>
+        
+              </div> <!-- /#branding -->
+
+              <div id="header-region" class="area">
+            <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-YLWu6wL9hWZIfiWzIDfxKvuNaj7VPRxuAOEANZ_ymII" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+        </div>
+      
+    </div></div> <!-- /.section, /#header -->
+
+    
+    <div id="main-wrapper"><div id="main" class="clearfix">
+            
+          
+            
+      
+      <div id="content-wrapper"><div id="content" class="column"><div class="section">
+                        <h1 class="title" id="page-title">Homepage</h1>                <div class="tabs"></div>                        <div id="content-area" class="area">
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-26" class="node node-page node-promoted clearfix" about="/content/homepage" typeof="foaf:Document">
+
+  
+    <div class="float-overflow">
+      <span property="dc:title" content="Homepage" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <div id="home-intro-copy"><h1>Welcome to Easyhealth! &nbsp; &nbsp;&nbsp;<a href="https://easyhealth.charitycheckout.co.uk/" target="_blank"></a></h1><div id="home-wrapper"><ul id="home-list"><li id="home1"><a href="/categories/health-leaflets/"><img alt="Health Leaflets" height="195" src="/sites/default/files/home_item_1.jpg" width="280" /></a><span><a href="/categories/health-leaflets/">Health Leaflets</a></span><div class="audio-player"><span><object data="/sites/default/files/player_mp3_maxi.swf" height="32" type="application/x-shockwave-flash" width="32"> <param name="movie" value="/sites/default/files/player_mp3_maxi.swf" /> <param name="bgcolor" value="#7aabde" /> <param name="FlashVars" value="mp3=/sites/default/files/healthleaflets.mp3&amp;width=32&amp;height=32&amp;showslider=0&amp;buttonwidth=82&amp;skin=/sites/default/files/audio-iconhome.jpg&amp;sliderovercolor=ffffff&amp;buttonovercolor=ffffff" /> <param name="wmode" value="transparent" /> </object> </span></div></li><li id="home2"><a href="/categories/food-and-exercise"><img alt="Food and Exercise" height="195" src="/sites/default/files/home_item_2.jpg" width="280" /></a><span><a href="/categories/food-and-exercise/">Food and Exercise</a></span><div class="audio-player"><span><object data="/sites/default/files/player_mp3_maxi.swf" height="32" type="application/x-shockwave-flash" width="32"> <param name="movie" value="/sites/default/files/player_mp3_maxi.swf" /> <param name="bgcolor" value="#b5cc02" /> <param name="FlashVars" value="mp3=/sites/default/files/foodandexercise.4.mp3&amp;width=32&amp;height=32&amp;showslider=0&amp;buttonwidth=82&amp;skin=/sites/default/files/audio-iconhome.jpg&amp;sliderovercolor=ffffff&amp;buttonovercolor=ffffff" /> <param name="wmode" value="transparent" /> </object> </span></div></li><li id="home3"><span><a href="/categories/health-videos"><span id="styles-0-0" class="styles file-styles large">  <img width="240" height="240" class="media-image" style="height: 240px; width: 240px;;;;;;;;;" id="1" typeof="foaf:Image" src="http://wordpress-21196-751080.cloudwaysapps.com/sites/default/files/styles/large/public/healthvideos_0.jpg?itok=rjM6bntc" /></span></a><a href="/categories/health-videos">Health Videos</a></span></li><li id="home4"><a href="/categories/useful-things-for-your-health-care"><img alt="Useful Things for your Health Care" height="195" src="/sites/default/files/home_item_4.jpg" width="280" /></a><span><a href="/categories/useful-things-for-your-health-care">Useful Things for your Health Care</a></span></li><li id="home5"><a href="/listing/useful-organisations"><img alt="Useful Organisations" height="195" src="/sites/default/files/home_item_5.jpg" width="280" /></a><span><a href="/listing/useful-organisations">Useful Organisations</a></span><div class="audio-player"><span><object data="/sites/default/files/player_mp3_maxi.swf" height="32" type="application/x-shockwave-flash" width="32"> <param name="movie" value="/sites/default/files/player_mp3_maxi.swf" /> <param name="bgcolor" value="#b591d6" /> <param name="FlashVars" value="mp3=/sites/default/files/usefulorgs.3.mp3&amp;width=32&amp;height=32&amp;showslider=0&amp;buttonwidth=82&amp;skin=/sites/default/files/audio-iconhome.jpg&amp;sliderovercolor=ffffff&amp;buttonovercolor=ffffff" /> <param name="wmode" value="transparent" /> </object> </span></div></li><li id="home6"><div id="easy-video"><object height="195" width="280"> <param name="movie" value="http://www.youtube.com/v/zR6Qh2hA7YM?version=3&amp;hl=en_US&amp;rel=0" /> <param name="allowFullScreen" value="true" /> <param name="allowscriptaccess" value="always" /> <embed allowfullscreen="true" allowscriptaccess="always" height="195" src="http://www.youtube.com/v/zR5Qh2hA7YM?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="280"></embed> </object></div><span><a href="/content/about-website/">About this website</a></span><div class="audio-player"><span><object data="/sites/default/files/player_mp3_maxi.swf" height="32" type="application/x-shockwave-flash" width="32"> <param name="movie" value="/sites/default/files/player_mp3_maxi.swf" /> <param name="bgcolor" value="#4cb8c1" /> <param name="FlashVars" value="mp3=/sites/default/files/aboutthiswebsite.3.mp3&amp;width=32&amp;height=32&amp;showslider=0&amp;buttonwidth=82&amp;skin=/sites/default/files/audio-iconhome.jpg&amp;sliderovercolor=ffffff&amp;buttonovercolor=ffffff" /> <param name="wmode" value="transparent" /> </object> </span></div></li></ul></div></div> </div></div></div>  </div>
+  </div>
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+        </div> <!-- /#content-area -->
+              </div></div></div> <!-- /.section, /#content /#content-wrapper -->
+
+              <div id="sidebar-a" class="area column sidebar"><div class="section">
+            <div class="region region-sidebar-a">
+    <div id="block-system-navigation" class="block block-system block-menu">
+
+    <h2>Navigation</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first last leaf menu-2531"><span class="bg bg-top"></span><a href="/contact" title="">Contact</a><span class="bg bg-bottom"></span></li></ul>  </div>
+</div>
+<div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/content/homepage?destination=node/26" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-openid-identifier">
+  <label for="edit-openid-identifier">Log in using OpenID </label>
+ <input type="text" id="edit-openid-identifier" name="openid_identifier" value="" size="15" maxlength="255" class="form-text" />
+<div class="description"><a href="http://openid.net/">What is OpenID?</a></div>
+</div>
+<div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-3ynUb9WTsPSlQuTRfFxMHyzspqTKgkgU2Ge-q_LfY0U" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<input type="hidden" name="openid.return_to" value="http://www.easyhealth.org.uk/openid/authenticate?destination=node/26" />
+<div class="item-list"><ul class="openid-links"><li class="openid-link first"><a href="#openid-login">Log in using OpenID</a></li>
+<li class="user-link last"><a href="#">Cancel OpenID login</a></li>
+</ul></div><div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+        </div></div> <!-- /.section, /#sidebar-first -->
+      
+      
+    </div></div> <!-- /#main, /#main-wrapper -->
+
+          <div id="prefooter"><div id="prefooter-wrapper"><div id="prefooter-end-wrapper">
+      <div class="section clearfix">
+        <div id="prefooter-first-region" class="area">
+                        <div class="region region-prefooter-first">
+    <div id="block-block-26" class="block block-block">
+
+    
+  <div class="content">
+     <div class="clearfix" id="atozblock"><h2>Use the A-Z to find what you are looking for</h2><ul><li id="atozA"><a href="/glossary/#glossary-term-a">A</a></li><li><a href="/glossary/#glossary-term-b">B</a></li><li><a href="/glossary/#glossary-term-c">C</a></li><li><a href="/glossary/#glossary-term-d">D</a></li><li><a href="/glossary/#glossary-term-e">E</a></li><li><a href="/glossary/#glossary-term-f">F</a></li><li><a href="/glossary/#glossary-term-g">G</a></li><li><a href="/glossary/#glossary-term-h">H</a></li><li><a href="/glossary/#glossary-term-i">I</a></li><li><a href="/glossary/#glossary-term-j">J</a></li><li><a href="/glossary/#glossary-term-k">K</a></li><li><a href="/glossary/#glossary-term-l">L</a></li><li><a href="/glossary/#glossary-term-m">M</a></li><li><a href="/glossary/#glossary-term-n">N</a></li><li><a href="/glossary/#glossary-term-o">O</a></li><li><a href="/glossary/#glossary-term-p">P</a></li><li><a href="/glossary/#glossary-term-q">Q</a></li><li><a href="/glossary/#glossary-term-r">R</a></li><li><a href="/glossary/#glossary-term-s">S</a></li><li><a href="/glossary/#glossary-term-t">T</a></li><li><a href="/glossary/#glossary-term-u">U</a></li><li><a href="/glossary/#glossary-term-v">V</a></li><li><a href="/glossary/#glossary-term-w">W</a></li><li><a href="/glossary/#glossary-term-x">X</a></li><li><a href="/glossary/#glossary-term-y">Y</a></li><li id="atozZ"><a href="/glossary/#glossary-term-z">Z</a></li></ul></div>   </div>
+</div>
+  </div>
+                  </div>
+        <div id="prefooter-second-region" class="area">
+                  </div>
+        <div id="prefooter-third-region" class="area">
+                  </div>
+      </div> <!-- /.section -->
+      </div></div></div> <!-- /#prefooter, /#prefooter-wrapper, /#prefooter-end-wrapper -->
+        
+          <div id="footer"><div class="section clearfix">
+        <div id="footer-first-region" class="area">
+                        <div class="region region-footer-first">
+    <div id="block-block-11" class="block block-block">
+
+    
+  <div class="content">
+     <div id ="footer-stuff"><h3>Other links to help you</h3>
+<ul id="footer-links"><li class="item-first"><a href="/contact">Contact us</a></li><li><a href="/content/accessibility">Accessibility</a></li><li><a href="/content/get-adobe">Get Adobe Flash player</a></li><li><a href="/content/site-map/">Site map</a></li></ul>
+<ul id="footer-links2"><li class="item-first">Copyright &copy; 2010<li><a href="/content/website-rules/">Website rules</a></li><li><a href="/content/privacy/">Privacy</a></li></ul></div>
+   </div>
+</div>
+<div id="block-block-46" class="block block-block">
+
+    
+  <div class="content">
+     <div style="text-align: right;"><a href="https://www.facebook.com/pages/Easyhealth/179183348823891" title="go to Generate website"><span id="styles-0-0" class="styles file-styles large">  <img class="media-image" id="1" typeof="foaf:Image" src="http://www.easyhealth.org.uk/sites/default/files/styles/large/public/facebook-icon_0.jpg?itok=jFq9fdN4" /></span></a><a href="https://twitter.com/youreasyhealth" title="go to Generate website"><span id="styles-1-0" class="styles file-styles large">  <img class="media-image" id="1" typeof="foaf:Image" src="http://www.easyhealth.org.uk/sites/default/files/styles/large/public/TwitterIcon.jpg?itok=9xHRz5qH" /></span></a></div>   </div>
+</div>
+  </div>
+                  </div>
+      
+        <div id="footer-second-region" class="area">
+                  </div>
+      </div></div> <!-- /.section, /#footer -->
+    
+  </div></div> <!-- /#page, /#page-wrapper -->
+
+<!--[if IE ]>
+</div> <!-- /#gardens_ie -->
+<![endif]-->
+
+<!--[if IE 8]>
+</div> <!-- /#gardens_ie8 -->
+<![endif]-->
+
+<!--[if IE 7]>
+</div> <!-- /#gardens_ie7 -->
+<![endif]-->
+
+<!--[if lt IE 7]>
+</div> <!-- /#gardens_ie-deprecated -->
+<![endif]-->
+  </body>
+</html>
